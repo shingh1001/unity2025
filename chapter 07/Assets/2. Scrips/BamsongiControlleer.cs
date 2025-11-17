@@ -26,7 +26,7 @@ public class BamsongiController : MonoBehaviour
     void Start()
     {
         Application.targetFrameRate = 60;
-        Shoot(new Vector3(0, upForce, forwardForece));
+        //Shoot(new Vector3(0, upForce, forwardForece));
        // Shoot(new Vector3(0, 200, 200));
     }
 }
